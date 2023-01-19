@@ -1,7 +1,7 @@
-### Hi 👋, I'm David Maquen Vidaurre
-# 💫 About Me:
-- I'm currently looking for a job as a frontend developer 💁🏻‍♂️
-- I'm also learning TypeScript 📘
+### Hola 👋, Soy David Maquen Vidaurre
+# 💫 Sobre mi:
+- Actualmente estoy buscando trabajo como desarrollador web frontend 💁🏻‍♂️
+- También estoy aprendiendo TypeScript 📘
 
 
 ## 🌐 Socials:
